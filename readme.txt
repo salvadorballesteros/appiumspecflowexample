@@ -18,7 +18,7 @@ However, I've still written the code as if it were available but commented them 
 
 TEXT - Captured and then stored the initial text in a local variable before the button push, then captured the current text in the THEN statement before comparing the two local variables.
 
-TOAST - Same as the previous scenarios, the two  
+TOAST - Same as the previous feature, there two scenarios, the happy path and a sample negative scenario. The script confirms if a toast was displayed.
 
 SPEEDTEST - The script will wait:
 1.) 30 for the page on Speedtest.net to load
